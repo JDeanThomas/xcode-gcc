@@ -1,4 +1,4 @@
-# Forked from https://github.com/hmazhar/xcode-gcc
+Forked from https://github.com/hmazhar/xcode-gcc
 
 # xcode-gcc
 A plugin for XCode 6 that supports newer versions of GCC.
