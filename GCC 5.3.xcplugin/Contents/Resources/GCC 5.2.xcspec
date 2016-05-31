@@ -7,7 +7,7 @@
 */
 
 {
-    Identifier = "com.apple.compilers.gcc.5_2";
+    Identifier = "com.apple.compilers.gcc.5_3";
     Type = Compiler;
     Class = "PBXCompilerSpecificationGcc3_3";
     Name = "GCC 5.3";
