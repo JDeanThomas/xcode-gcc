@@ -37,7 +37,7 @@
         sdk,
     );
     RequiredComponents = (
-        "com.apple.compilers.gcc.headers.5_3",
+        "com.apple.compilers.gcc.headers.4_2",
     );
     "BuiltinJambaseRuleName" = ProcessC;
     ExecPath = "/usr/local/bin/gcc-5";
